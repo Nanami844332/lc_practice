@@ -1,2 +1,2 @@
 # lc_practice
-LeetCode, share vest practice 
+LeetCode, share best practice 
